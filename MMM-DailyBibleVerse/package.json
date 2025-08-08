@@ -1,0 +1,8 @@
+{
+  "name": "mmm-dailybibleverse",
+  "version": "1.0.0",
+  "description": "MagicMirror² module that displays a daily Bible verse.",
+  "main": "MMM-DailyBibleVerse.js",
+  "author": "shotgun45",
+  "license": "MIT"
+}
